@@ -30,3 +30,6 @@
 
 ### :heavy_check_mark: API Autotests for reqres.in website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmaksyutov&repo=qa_guru_diplom_api)](https://github.com/tmaksyutov/qa_guru_diplom_api)
+
+### :heavy_check_mark: Mobile Autotests for Wikipedia app
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmaksyutov&repo=qa_guru_diplom_mobile)](https://github.com/tmaksyutov/qa_guru_diplom_mobile)
