@@ -25,8 +25,8 @@
 </p>
 
 ## My projects:
-### :heavy_check_mark: UI Autotests for Runc website
+### :heavy_check_mark: UI Autotests for hh.ru website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmaksyutov&repo=qa_guru_diplom_ui)](https://github.com/tmaksyutov/qa_guru_diplom_ui)
 
-### :heavy_check_mark: API Autotests for reqres website
+### :heavy_check_mark: API Autotests for reqres.in website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmaksyutov&repo=qa_guru_diplom_api)](https://github.com/tmaksyutov/qa_guru_diplom_api)
