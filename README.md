@@ -1,7 +1,7 @@
 ### About me
 
 - 💼 I'm QA Engineer
-- 🌱 I’m currently learning at QA.GURU
+- 🌱 QA.GURU graduate, Java, QA Automation
 - 📫 How to reach me: Telegram @tmaksyutov
 
 ### Tools and technologies:
